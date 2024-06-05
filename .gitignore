@@ -2,6 +2,7 @@ venv/
 data/
 
 wandb/
+saved-models/
 
 .ipynb_checkpoints/
 
